@@ -78,24 +78,7 @@ Open the workflows:
 * Fact load: [load_fact_sales.ktr](load_fact_sales.ktr)
 
 
-## Dashboards
-
-Below are snapshot views of the interactive dashboards used in the project. For the best experience, open these images to view at full resolution.
-
-* **Overview**
-  ![Dashboard 1 - Overview](assets/v1.jpg)
-
-* **Product Performance** — category/sub-category trends and revenue contribution
-  ![Dashboard 2 - Product Performance](assets/v3.jpg)
-
-* **Sales Trends** — year/quarter dynamics and seasonality patterns
-  ![Dashboard 3 - Sales Trends](assets/v4.jpg)
-
-* **Sales by City** — top cities driving revenue
-  ![Dashboard 4 - Sales by City](assets/v5.jpg)
-
-
-## Team
+## Our Team
 
 This project was presented our team at the **Institute of Technology of Cambodia**, Department of Applied Mathematics and Statistics.
 
