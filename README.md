@@ -6,6 +6,35 @@
 
 An end-to-end BI solution built on a star-schema warehouse with ETL pipelines and interactive dashboards for the Superstore dataset
 
+## Dashboard Preview
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="assets/v1.jpg" alt="Overview" width="400"><br>
+        <b>Overview</b>
+      </td>
+      <td>
+        <img src="assets/v3.jpg" alt="Product Performance" width="400"><br>
+        <b>Product Performance</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="assets/v4.jpg" alt="Sales Trends" width="400"><br>
+        <b>Sales Trends</b>
+      </td>
+      <td>
+        <img src="assets/v5.jpg" alt="Sales by City" width="400"><br>
+        <b>Sales by City</b>
+      </td>
+    </tr>
+  </table>
+  <p><a href="#dashboards">See full dashboards</a></p>
+  
+</div>
+
 The primary goal is to provide a structured environment for analyzing "Superstore" data to uncover trends and improve operational decision-making.
 
 ## Highlights
@@ -45,17 +74,8 @@ Pentaho transformations orchestrate consistent, repeatable processing.
 
 Open the workflows:
 
-* Dimension load: [etl-superstore/load_dim_customer.ktr](etl-superstore/load_dim_customer.ktr)
-* Fact load: [etl-superstore/load_fact_sales.ktr](etl-superstore/load_fact_sales.ktr)
-
-
-## Visualizations & Insights
-
-Interactive dashboards highlight business performance:
-
-* **Customer Analysis**: Breakdown of customers by segment and geographical heatmaps showing top cities and states.
-* **Product Performance**: Analysis of sales distribution across categories and sub-categories.
-* **Sales Trends**: Evaluation of sales volume over years and quarters, and delivery time efficiency.
+* Dimension load: [load_dim_customer.ktr](load_dim_customer.ktr)
+* Fact load: [load_fact_sales.ktr](load_fact_sales.ktr)
 
 
 ## Dashboards
