@@ -31,11 +31,9 @@ An end-to-end BI solution built on a star-schema warehouse with ETL pipelines an
       </td>
     </tr>
   </table>
-  <p><a href="#dashboards">See full dashboards</a></p>
   
 </div>
 
-The primary goal is to provide a structured environment for analyzing "Superstore" data to uncover trends and improve operational decision-making.
 
 ## Highlights
 
